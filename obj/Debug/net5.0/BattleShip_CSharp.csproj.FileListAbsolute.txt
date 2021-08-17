@@ -14,3 +14,19 @@ C:\Users\nateR\OneDrive\Documents\GitHub\BattleShip_CSharp\obj\Debug\net5.0\Batt
 C:\Users\nateR\OneDrive\Documents\GitHub\BattleShip_CSharp\obj\Debug\net5.0\ref\BattleShip_CSharp.dll
 C:\Users\nateR\OneDrive\Documents\GitHub\BattleShip_CSharp\obj\Debug\net5.0\BattleShip_CSharp.pdb
 C:\Users\nateR\OneDrive\Documents\GitHub\BattleShip_CSharp\obj\Debug\net5.0\BattleShip_CSharp.genruntimeconfig.cache
+C:\Users\spira\OneDrive\Documents\SDMM student files\McCraw, Nathan\battleShip\bin\Debug\net5.0\BattleShip_CSharp.exe
+C:\Users\spira\OneDrive\Documents\SDMM student files\McCraw, Nathan\battleShip\bin\Debug\net5.0\BattleShip_CSharp.deps.json
+C:\Users\spira\OneDrive\Documents\SDMM student files\McCraw, Nathan\battleShip\bin\Debug\net5.0\BattleShip_CSharp.runtimeconfig.json
+C:\Users\spira\OneDrive\Documents\SDMM student files\McCraw, Nathan\battleShip\bin\Debug\net5.0\BattleShip_CSharp.runtimeconfig.dev.json
+C:\Users\spira\OneDrive\Documents\SDMM student files\McCraw, Nathan\battleShip\bin\Debug\net5.0\BattleShip_CSharp.dll
+C:\Users\spira\OneDrive\Documents\SDMM student files\McCraw, Nathan\battleShip\bin\Debug\net5.0\ref\BattleShip_CSharp.dll
+C:\Users\spira\OneDrive\Documents\SDMM student files\McCraw, Nathan\battleShip\bin\Debug\net5.0\BattleShip_CSharp.pdb
+C:\Users\spira\OneDrive\Documents\SDMM student files\McCraw, Nathan\battleShip\obj\Debug\net5.0\BattleShip_CSharp.csproj.AssemblyReference.cache
+C:\Users\spira\OneDrive\Documents\SDMM student files\McCraw, Nathan\battleShip\obj\Debug\net5.0\BattleShip_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spira\OneDrive\Documents\SDMM student files\McCraw, Nathan\battleShip\obj\Debug\net5.0\BattleShip_CSharp.AssemblyInfoInputs.cache
+C:\Users\spira\OneDrive\Documents\SDMM student files\McCraw, Nathan\battleShip\obj\Debug\net5.0\BattleShip_CSharp.AssemblyInfo.cs
+C:\Users\spira\OneDrive\Documents\SDMM student files\McCraw, Nathan\battleShip\obj\Debug\net5.0\BattleShip_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\spira\OneDrive\Documents\SDMM student files\McCraw, Nathan\battleShip\obj\Debug\net5.0\BattleShip_CSharp.dll
+C:\Users\spira\OneDrive\Documents\SDMM student files\McCraw, Nathan\battleShip\obj\Debug\net5.0\ref\BattleShip_CSharp.dll
+C:\Users\spira\OneDrive\Documents\SDMM student files\McCraw, Nathan\battleShip\obj\Debug\net5.0\BattleShip_CSharp.pdb
+C:\Users\spira\OneDrive\Documents\SDMM student files\McCraw, Nathan\battleShip\obj\Debug\net5.0\BattleShip_CSharp.genruntimeconfig.cache
